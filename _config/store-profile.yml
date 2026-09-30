@@ -1,0 +1,8 @@
+---
+Name: silvershop-store-profile
+After:
+  - silvershop-extensions
+---
+SilverStripe\SiteConfig\SiteConfig:
+  extensions:
+    - SilverShop\StoreProfile\Extension\StoreProfileExtension

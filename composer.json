@@ -1,0 +1,37 @@
+{
+    "name": "silvershop/store-profile",
+    "description": "Central shop identity for SilverShop: name, legal name, VAT number, contact details, logo and a structured store address, shared by invoicing, shipping labels and other modules.",
+    "type": "silverstripe-vendormodule",
+    "license": "BSD-3-Clause",
+    "keywords": ["silverstripe", "silvershop", "siteconfig", "store", "address"],
+    "authors": [
+        {
+            "name": "RVXD"
+        }
+    ],
+    "require": {
+        "php": "^8.3",
+        "silverstripe/framework": "^6.0",
+        "silverstripe/siteconfig": "^6.0",
+        "silverstripe/assets": "^3.0",
+        "silverstripe/asset-admin": "^3.0",
+        "silvershop/core": "^6",
+        "silvershop/address-formats": "@dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0",
+        "squizlabs/php_codesniffer": "^3.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "SilverShop\\StoreProfile\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "SilverShop\\StoreProfile\\Tests\\": "tests/php/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
