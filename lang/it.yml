@@ -1,0 +1,18 @@
+it:
+  SilverShop\StoreProfile\Extension\StoreProfileExtension:
+    Identity: 'Identità del negozio'
+    ShopName: 'Nome del negozio'
+    ShopNameDesc: 'Nome pubblico. Usa il titolo del sito se vuoto.'
+    LegalName: 'Ragione sociale / nome commerciale'
+    VatNumber: 'Partita IVA / codice fiscale'
+    ContactEmail: 'Email di contatto'
+    ContactPhone: 'Telefono di contatto'
+    Logo: 'Logo'
+    Address: 'Indirizzo del negozio / di reso'
+    Street: 'Via + numero'
+    AddressLine2: 'Indirizzo riga 2'
+    Postcode: 'CAP'
+    City: 'Città'
+    Region: 'Stato / provincia'
+    Country: 'Paese'
+    ChooseCountry: '(scegli un paese)'

@@ -1,0 +1,18 @@
+en:
+  SilverShop\StoreProfile\Extension\StoreProfileExtension:
+    Identity: 'Shop identity'
+    ShopName: 'Shop name'
+    ShopNameDesc: 'Public name. Defaults to the site title when blank.'
+    LegalName: 'Legal / trading name'
+    VatNumber: 'VAT / tax number'
+    ContactEmail: 'Contact email'
+    ContactPhone: 'Contact phone'
+    Logo: 'Logo'
+    Address: 'Store / return address'
+    Street: 'Street + number'
+    AddressLine2: 'Address line 2'
+    Postcode: 'Postcode'
+    City: 'City'
+    Region: 'State / province'
+    Country: 'Country'
+    ChooseCountry: '(choose a country)'

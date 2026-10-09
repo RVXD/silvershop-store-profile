@@ -1,0 +1,18 @@
+nl:
+  SilverShop\StoreProfile\Extension\StoreProfileExtension:
+    Identity: 'Winkelidentiteit'
+    ShopName: 'Winkelnaam'
+    ShopNameDesc: 'Publieke naam. Valt terug op de sitetitel wanneer leeg.'
+    LegalName: 'Juridische / handelsnaam'
+    VatNumber: 'Btw-/belastingnummer'
+    ContactEmail: 'Contact-e-mail'
+    ContactPhone: 'Contacttelefoon'
+    Logo: 'Logo'
+    Address: 'Winkel-/retouradres'
+    Street: 'Straat + nummer'
+    AddressLine2: 'Adresregel 2'
+    Postcode: 'Postcode'
+    City: 'Plaats'
+    Region: 'Provincie'
+    Country: 'Land'
+    ChooseCountry: '(kies een land)'
